@@ -10,14 +10,8 @@ Aplicación móvil Android creada para ayudar a estudiantes universitarios a ide
 
 <p align="center">
   <img src="screenshots/Inicio-Registro.jpeg" width="220" alt="Inicio y registro">
-  <img src="screenshots/CreacionDeCuenta.jpeg" width="220" alt="Creación de cuenta">
-  <img src="screenshots/InicioDeSesion.jpeg" width="220" alt="Inicio de sesión">
-</p>
-
-<p align="center">
   <img src="screenshots/Bienvenida_GastosPrincipales.jpeg" width="220" alt="Dashboard principal">
   <img src="screenshots/GastosPorCategoria.jpeg" width="220" alt="Gastos por categoría">
-  <img src="screenshots/UltimosGastos.jpeg" width="220" alt="Últimos gastos">
 </p>
 
 <p align="center">
